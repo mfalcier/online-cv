@@ -1,4 +1,4 @@
-intro: "Here you can find some projects I've participated in or that I've created."
+intro: "Open Source projects I've participated in or I've created so far."
 projects:
   - project:
     title: Neo4j JDBC Driver

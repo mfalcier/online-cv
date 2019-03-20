@@ -1,0 +1,8 @@
+intro: "Public speaches I've made so far."
+speaches:
+  - speach:
+    title: Serverless Event-driven Architecture with Kotlin
+    link: "https://vimeo.com/279129755"
+  - speach:
+    title: Serverless Event-driven Architecture with Kotlin: the Pixartprinting use case
+    link: "https://www.youtube.com/watch?v=4vsduSesG6U"
